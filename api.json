@@ -1,0 +1,56 @@
+[
+  {
+    "precio": 4000,
+    "id": 1,
+    "title": "Auriculares Kotion G9000",
+    "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_738955-MLA40252400386_122019-O.jpg"
+  },
+  {
+    "precio": 6000,
+    "id": 2,
+    "title": "Teclado Gaming Scorpion K8",
+    "thumbnailUrl": "https://www.xt-pc.com.ar/img/productos/Pics_Prod/TEC518.jpg"
+  },
+  {
+    "precio": 5000,
+    "id": 3,
+    "title": "Mouse Pad gamer Razer Firefly",
+    "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_673617-MLA48330097244_112021-O.jpg"
+  },
+  {
+    "precio": 2000,
+    "id": 4,
+    "title": "Auriculares inalámbricos Sony",
+    "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_933418-MLA40865317836_022020-O.jpg"
+  },
+  {
+    "precio": 6000,
+    "id": 5,
+    "title": "Gabinete Gamer Andromeda",
+    "thumbnailUrl": "https://nissei.com/media/catalog/product/cache/16a9529cefd63504739dab4fc3414065/g/a/gabinete-satellite-gaming--k874-negro--sin-fuente-.jpg"
+  },
+  {
+    "precio": 5000,
+    "id": 6,
+    "title": "Kit Microfono Profesional Condenser",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/236/748/products/d_614004-mla46740748251_072021-o1-b9b65e3780883d391c16298329905543-480-0.jpg"
+  },
+  {
+    "precio": 18000,
+    "id": 7,
+    "title": "Microfono HyperX QuadCast",
+    "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_841463-MLA32553444734_102019-F.webp"
+  },
+  {
+    "precio": 5400,
+    "id": 8,
+    "title": "Kit Microfono Omnidireccional",
+    "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_715753-MLA51274114237_082022-O.webp"
+  },
+  {
+    "precio": 15000,
+    "id": 9,
+    "title": "Auricular Gamer JBL Quantum 800",
+    "thumbnailUrl": "https://medias.musimundo.com/medias/00339002-178104-178104-01.png-178104-01.png-size515?context=bWFzdGVyfGltYWdlc3w0MTc1NDZ8aW1hZ2UvcG5nfGhmYy9oMGYvMTA0MDY4NzU1NjIwMTQvMDAzMzkwMDItMTc4MTA0LTE3ODEwNF8wMS5wbmctMTc4MTA0XzAxLnBuZ19zaXplNTE1fDlkM2M0ZjhmMTFiYTdkMmJkZDE4ZWVmOWIzYjg1OWNhNzY3YTY3ZDVjZjMwZDQ0OTIyZjA1MjM2NzRkZGQ2YTU"
+  }
+]
